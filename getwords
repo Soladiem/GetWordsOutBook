@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * GetWordsOutBook
+ *
+ * @author Denis Sitko <sitko.dv@gmail.com>
+ * @site https://sitkodenis.ru
+ */
+
 // Удаляемые слова
 $removableWords = [
 	// Местоимения
